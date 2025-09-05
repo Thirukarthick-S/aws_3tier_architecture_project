@@ -66,9 +66,9 @@ The application is divided into three layers:
 ## 📊 Architecture Diagram
 
 ![AWS 3-Tier Architecture](https://github.com/Thirukarthick-S/aws_3tier_architecture_project/blob/main/assets/3TierArch.png) 
-**OUTPUT SCREENSHOT**
-(https://github.com/Thirukarthick-S/aws_3tier_architecture_project/blob/main/assets/output.png)
-*(Replace with your own diagram image or draw using [Lucidchart](https://www.lucidchart.com/), [Draw.io](https://app.diagrams.net/), or [Excalidraw](https://excalidraw.com/)).*  
+
+![OUTPUT SCREENSHOT](https://github.com/Thirukarthick-S/aws_3tier_architecture_project/blob/main/assets/output.png)
+[Lucidchart](https://www.lucidchart.com/), [Draw.io](https://app.diagrams.net/), or [Excalidraw](https://excalidraw.com/)).*  
 
 ---
 
@@ -83,4 +83,4 @@ The application is divided into three layers:
 ## 📧 Contact
 
 Created by **Thirukarthick S**  
-For queries: [your.email@example.com](mailto:your.email@example.com)  
+For queries: [your.email@example.com](iamthirukarthick@gmail.com)  
