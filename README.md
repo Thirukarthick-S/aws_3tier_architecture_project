@@ -85,4 +85,4 @@ The application is divided into three layers:
 ## 📧 Contact
 
 Created by **Thirukarthick S**  
-For queries: [your.email@example.com](iamthirukarthick@gmail.com)  
+For queries: [mail me](iamthirukarthick@gmail.com)  
