@@ -67,6 +67,8 @@ The application is divided into three layers:
 
 ![AWS 3-Tier Architecture](https://github.com/Thirukarthick-S/aws_3tier_architecture_project/blob/main/assets/3TierArch.png) 
 
+## 📊 Architecture Diagram
+**OUTPUT**
 ![OUTPUT SCREENSHOT](https://github.com/Thirukarthick-S/aws_3tier_architecture_project/blob/main/assets/output.png)
 [Lucidchart](https://www.lucidchart.com/), [Draw.io](https://app.diagrams.net/), or [Excalidraw](https://excalidraw.com/)).*  
 
